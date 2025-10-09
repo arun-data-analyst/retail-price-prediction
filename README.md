@@ -50,7 +50,8 @@ Retail-Price-Prediction/
 ├── Retail_Project.ipynb               # Main Jupyter notebook
 ├── README.md                          # Project summary (this file)
 ├── requirements.txt                   # Python dependencies
-├── summary.txt                        # Short findings summary
+├── Retail_Pricing_Analysis_Report.pdf # Business Report                  
+├── summary.txt                        # Technical summary
 ├── data/
 │   ├── Retail_Prices_of_Products.csv  # Full dataset (cleaned)
 │   └── Data_Dictionary.txt            # Column descriptions
